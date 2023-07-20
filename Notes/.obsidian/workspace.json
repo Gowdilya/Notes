@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md",
-                "mode": "source",
+                "file": "AWS/AWS Technical Essentials/AWS Technical Essentials.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -29,12 +29,8 @@
             "id": "e03b42ee0b9ae4f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md",
+                "file": "AWS/AWS Technical Essentials/AWS Technical Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md",
+                "file": "AWS/AWS Technical Essentials/AWS Technical Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md"
+                "file": "AWS/AWS Technical Essentials/AWS Technical Essentials.md"
               }
             }
           }
@@ -166,8 +162,23 @@
   },
   "active": "1691c49ccd9c3709",
   "lastOpenFiles": [
-    "AWS/AWS Technical Essentals/Screenshot 2023-07-19 at 11.49.15 PM.png",
+    "AWS/AWS Technical Essentials/AWS Global Infrastructure.md",
+    "AWS/AWS Technical Essentials/AWS Technical Essentials.md",
+    "AWS/AWS Technical Essentials/Untitled",
     "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md",
+    "AWS/AWS Technical Essentials/Six Advantages of cloud Computing.md",
+    "AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
+    "AWS/AWS Technical Essentials",
+    "AWS/AWS Technical Essentals/AWS Technical Essentials.md",
+    "Images/Screenshot 2023-07-19 at 11.49.15 PM.png",
+    "Images/Screenshot 2023-07-19 at 11.38.07 PM.png",
+    "Images/Screenshot 2023-07-20 at 9.14.07 AM.png",
+    "Images/Screenshot 2023-07-20 at 9.12.24 AM.png",
+    "Images",
+    "Untitled",
+    "AWS/AWS Technical Essentals/AWS Global Infrastructure.md",
+    "AWS/AWS Technical Essentals/Six Advantages of cloud Computing.md",
+    "AWS/AWS Technical Essentals/Screenshot 2023-07-19 at 11.49.15 PM.png",
     "Screenshot 2023-07-19 at 11.49.15 PM.png",
     "AWS/AWS Technical Essentals/AWS.md",
     "AWS/AWS Technical Essentals",
