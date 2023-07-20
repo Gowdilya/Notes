@@ -1,4 +1,4 @@
-![[deploymentModels.PNG]]
+![Deployment Model](deploymentModels.jpg)
 
 ## On-premises
 
@@ -23,7 +23,7 @@ A third option is a hybrid deployment. This type of deployment is a way to conne
 
 
 ## On-premise vs Cloud
-![[On-premises_vs_Cloud.PNG]]
+![On-Premises vs Cloud](On-premises_vs_Cloud.jpg)
 To help differentiate between running workloads on premises and in the cloud, consider a scenario in which developers must deploy a new application feature. Before they deploy, the team wants to test the feature in a separate quality assurance (QA) environment that has the same configurations as production. ==In an on-premises solution, an additional environment requires you to buy and install hardware, connect the necessary cabling, provision power, install operating systems, and more. These tasks can be time consuming and expensive. Meanwhile, the new feature’s time-to-market increases while the developers wait for the QA environment.== 
 
 In contrast, by running your application in the cloud, ==you can replicate an entire production environment in a matter of minutes or even seconds. Instead of physically installing hardware and connecting cabling, the solution is managed over the internet.==
