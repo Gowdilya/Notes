@@ -1,4 +1,11 @@
 # Notes
 Welcome to my notes Page
 
-[AWS Technical Essentials](obsidian://open?vault=vault&file=Notes%2FAWS%2FAWS%20Technical%20Essentals%2FAWS)
+[[AWS Technical Essentials]]
+
+## AWS Technical Essentials
+1. [[Cloud Computing Deployment Models]]
+2. [[AWS Global Infrastructure]]
+
+## Resources
+[aws-overview white papers](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf)

@@ -4,7 +4,7 @@
 
 companies maintained hardware: compute, storage, and networking equipment in their own data centers and allocated entire infrastructure department  to take care of the data centers
 
-costly operation that made some workloads and experiements impossible.
+costly operation that made some workloads and experiments impossible.
 
 As internet use became more widespread, the demand for compute, storage, and networking equipment increased. For some companies and organizations, 
 
