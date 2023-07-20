@@ -1,10 +1,10 @@
 
 ## Availability Zone
 AZ consists of one or more data centers with redundant power
-
-
-
 ![[availabilityZone.png]]
+
+
+
 
 ## Region
 ![[Region.png]]
