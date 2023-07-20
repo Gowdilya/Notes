@@ -1,4 +1,4 @@
-![[deploymentModels.png]]
+![[./Images/deploymentModels.PNG]]
 
 ## On-premises
 
