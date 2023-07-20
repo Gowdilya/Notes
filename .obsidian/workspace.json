@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AWS/AWS Technical Essentials/AWS Global Infrastructure.md",
+                "file": "Notes/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/AWS/AWS Technical Essentials/AWS Global Infrastructure.md",
+                "file": "Notes/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/AWS/AWS Technical Essentials/AWS Global Infrastructure.md",
+                "file": "Notes/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AWS/AWS Technical Essentials/AWS Global Infrastructure.md"
+                "file": "Notes/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "431e810a3d2f4150",
   "lastOpenFiles": [
-    "Notes/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
     "Notes/AWS/AWS Technical Essentials/AWS Global Infrastructure.md",
+    "Notes/AWS/AWS Technical Essentials/Images/deploymentModels.PNG",
+    "Notes/AWS/AWS Technical Essentials/Images/On-premises_vs_Cloud.png",
+    "Notes/AWS/AWS Technical Essentials/Images/On-premises_vs_Cloud.PNG",
+    "Notes/AWS/AWS Technical Essentials/Images/availabilityZone.PNG",
+    "Notes/AWS/AWS Technical Essentials/Images/Region.PNG",
     "Notes/AWS/AWS Technical Essentials/Images/availabilityZone.png",
+    "Notes/AWS/AWS Technical Essentials/Images/Region.png",
+    "Notes/AWS/AWS Technical Essentials/Images/deploymentModels.png",
+    "Notes/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
     "Images 1.md",
     "Images.md",
     "Images 2.md",
     "Notes/AWS/AWS Technical Essentials/Images",
     "Notes/AWS/AWS Technical Essentials.md",
-    "Notes/AWS/AWS Technical Essentials/Images/deploymentModels.png",
     "Notes/AWS/AWS Technical Essentials/Six Advantages of cloud Computing.md",
     "README.md",
-    "Notes/AWS/AWS Technical Essentials/Images/Region.png",
-    "Notes/AWS/AWS Technical Essentials/On-premises_vs_Cloud.png",
     "Notes/AWS/AWS Technical Essentials/Images",
     "AWS[[Cloud Computing Deployment Models.md",
     "Notes/AWS/AWS Technical Essentals/Screenshot 2023-07-19 at 11.25.42 PM.png",
