@@ -1,0 +1,4 @@
+
+1. SDL (Schema Definition Language): SDL is a language used to define the structure and schema of a database. It is generally associated with database management systems and is used to create, modify, and manage database schemas. SDL provides a way to specify tables, columns, data types, constraints, and relationships between tables. It is used to represent the logical design of the database and is not directly tied to any specific programming language.
+
+In SDL, you define the blueprint of your database, and then a database management system (such as MySQL, PostgreSQL, or Oracle) will create and manage the actual database based on this schema. SDL allows developers to design the data model and ensure data integrity, indexing, and other database-related considerations are in place.

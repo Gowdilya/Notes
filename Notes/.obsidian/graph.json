@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "GraphQL",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 12460010
       }
     },
     {
@@ -32,6 +32,6 @@
   "repelStrength": 9.26025390625,
   "linkStrength": 1,
   "linkDistance": 273,
-  "scale": 2.052656168134831,
+  "scale": 1.0003275222777184,
   "close": false
 }
