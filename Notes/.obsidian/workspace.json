@@ -14,8 +14,87 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fba8b9c33826d94e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Interview Prep/TopTal/TopTal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca686754de00df40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event Sourcing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74183cba87798f91",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Screenshot 2023-08-02 at 9.09.59 PM.png"
+              }
+            }
+          },
+          {
+            "id": "9c3eb7f9fadfab4b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Screenshot 2023-08-02 at 9.10.13 PM.png"
+              }
+            }
+          },
+          {
+            "id": "b557364e2ac21a16",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Screenshot 2023-08-02 at 11.32.03 PM.png"
+              }
+            }
+          },
+          {
+            "id": "56e0becc99a3d116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc2b0996dc09ed7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -65,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "right": {
     "id": "546ce88187fb9c50",
@@ -81,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +199,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md"
+              }
+            }
+          },
+          {
+            "id": "e764a610932110f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 590.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,41 +230,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1691c49ccd9c3709",
+  "active": "88b4b4dda6c8619c",
   "lastOpenFiles": [
-    "Interview Prep/Shakudo/TypeGraphQL.md",
-    "SDL.md",
-    "AWS/AWS Technical Essentials/AWS Global Infrastructure.md",
-    "Interview Prep/Shakudo",
-    "Interview Prep",
-    "AWS/AWS Technical Essentials/Region/Pricing.md",
-    "AWS/AWS Technical Essentials/Region/Latency.md",
-    "AWS/AWS Technical Essentials/Region",
-    "AWS/AWS Technical Essentials/Untitled",
-    "AWS/AWS Technical Essentials/Images/On-premises_vs_Cloud.PNG",
-    "AWS/AWS Technical Essentials/Images/On-premises_vs_Cloud.png",
-    "AWS/AWS Technical Essentials/Images/Region.PNG",
-    "AWS/AWS Technical Essentials/Images/deploymentModels.PNG",
-    "AWS/AWS Technical Essentials/Images/availabilityZone.PNG",
-    "AWS/AWS Technical Essentials/Images/deploymentModels.png",
-    "AWS/AWS Technical Essentials/Images/Region.png",
-    "AWS/AWS Technical Essentials/Images/availabilityZone.png",
-    "AWS/AWS Technical Essentials/Images",
-    "AWS/AWS Technical Essentials/AWS Technical Essentials.md",
-    "AWS/AWS Technical Essentials.md",
-    "AWS/AWS Technical Essentials/Region.png",
-    "AWS/AWS Technical Essentials/On-premises_vs_Cloud.png",
-    "AWS/AWS Technical Essentals/Cloud Computing Deployment Models.md",
-    "AWS/AWS Technical Essentials/Six Advantages of cloud Computing.md",
-    "AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
-    "AWS/AWS Technical Essentials",
-    "AWS/AWS Technical Essentals/AWS Technical Essentials.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/useCallback.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/useMemo.md",
+    "Software Development/Concepts/JavaScript Concepts/callback function.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/useRef.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/React.md",
+    "Software Development/Project/Full-Stack Development with Nest JS.md",
+    "Software Development/Concepts/JavaScript Concepts/Map vs Set.md",
+    "Software Development/Project",
+    "Type ORM.md",
+    "Software Development/Concepts/ORM.md",
+    "Software Development/Coding Problems/JavaScript/Remove Duplicate.md",
+    "Software Development/Concepts/JavaScript Concepts/Hoisting.md",
+    "Software Development/Coding Problems/JavaScript",
+    "Software Development/Coding Problems",
+    "Software Development/Concepts/REST.md",
+    "Software Development/Concepts/SDL.md",
+    "Software Development/Concepts/CQRS (Command Query Responsibility Segregation) pattern.md",
+    "Software Development/Concepts/JavaScript Concepts/equality.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/React Optimization.md",
+    "Software Development/React(Senior Developer Concepts)/useRef",
+    "Software Development/Concepts/React(Senior Developer Concepts)/Virtual DOM in React.md",
+    "Software Development/Concepts/SOLID principle.md",
+    "Software Development/Interview Prep/First Derivative/First Derivative Prep.md",
+    "Software Development/Concepts/object.md",
+    "MVC in Nest.md",
+    "Software Development/Concepts/Domain Driven Design.md",
+    "Screenshot 2023-08-03 at 12.16.04 AM.png",
+    "Screenshot 2023-08-03 at 12.14.55 AM.png",
+    "Screenshot 2023-08-03 at 12.13.03 AM.png",
+    "Screenshot 2023-08-03 at 12.11.11 AM.png",
+    "Screenshot 2023-08-03 at 12.07.33 AM.png",
+    "Screenshot 2023-08-03 at 12.03.46 AM.png",
+    "Screenshot 2023-08-03 at 12.01.52 AM.png",
+    "Untitled.canvas",
+    "Unit Testing.md",
+    "Images/Screenshot 2023-08-02 at 11.37.54 PM.png",
     "Images",
-    "AWS/AWS Technical Essentals/AWS Global Infrastructure.md",
-    "AWS/AWS Technical Essentals/Six Advantages of cloud Computing.md",
-    "AWS/AWS Technical Essentals/AWS.md",
-    "AWS/AWS Technical Essentals",
-    "AWS",
+    "Images/Screenshot 2023-08-02 at 11.32.03 PM.png",
+    "Images/Screenshot 2023-08-02 at 9.10.13 PM.png",
+    "Event Sourcing.md",
+    "Software Development/Interview Prep/Shakudo/TypeGraphQL.md",
+    "Untitled 1.canvas",
+    "Software Development/Interview Prep/First Derivative",
+    "Software Development/Interview Prep/First Derivative",
+    "Software Development/Interview Prep/Forms",
+    "Software Development/Concepts/Images",
+    "Software Development/Concepts",
+    "Untitled 2.canvas",
     "AWS/AWS Technical Essentals/Untitled 1.canvas",
     "AWS/AWS Technical Essentals/Untitled.canvas"
   ]

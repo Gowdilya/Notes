@@ -21,7 +21,7 @@ It also has a set of useful features, like validation, authorization and depende
 
 As mentioned, developing a GraphQL API in Node.js with TypeScript is sometimes a bit of a pain. Why? Let's take a look at the steps we usually have to take.
 1. First, we create all the schema types in [[SDL]].
-2. We also create our data models using [ORM classes](https://github.com/typeorm/typeorm), which represent our database entities. Then we start to write resolvers for our queries, mutations and fields. This forces us, however, to begin with creating TypeScript interfaces for all arguments and inputs and/or object types. After that, we can actually implement the resolvers, using weird generic signatures, e.g.:
+2. We also create our data models using [ORM classes](https://github.com/typeorm/typeorm),[[ORM]] which represent our database entities. Then we start to write resolvers for our queries, mutations and fields. This forces us, however, to begin with creating TypeScript interfaces for all arguments and inputs and/or object types. After that, we can actually implement the resolvers, using weird generic signatures, e.g.:
 
 
 

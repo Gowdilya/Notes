@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -20,6 +20,27 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "SQL",
+      "color": {
+        "a": 1,
+        "rgb": 8724244
+      }
+    },
+    {
+      "query": "tag:#OOP",
+      "color": {
+        "a": 1,
+        "rgb": 6394613
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +53,6 @@
   "repelStrength": 9.26025390625,
   "linkStrength": 1,
   "linkDistance": 273,
-  "scale": 1.0003275222777184,
+  "scale": 0.658849694484541,
   "close": false
 }

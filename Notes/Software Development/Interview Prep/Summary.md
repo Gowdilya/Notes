@@ -1,0 +1,3 @@
+#forms #LinkedIn
+
+I'm a full-stack software engineer with 6 years of experience, and 4 years of Front-End development experience specializing in React. I've worked for Bell Canada and worked as a software consultant when I worked for Rangle.IO. I consolidated many of the back office tools for managing call Center Agents under one Coaching Application I built using .NET Core and React. At Rangle I focused on becoming more specialized in Front-End working on migration to React/TypeScript for a large Saas company(SurveyMonkey) with an emphasis on accessibility(a11y) and good architecture.

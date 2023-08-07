@@ -1,0 +1,2 @@
+- **Strict comparison (e.g., ===)** checks for value equality without allowing _coercion_
+- **Abstract comparison (e.g. ==)** checks for value equality with _coercion_ allowed
