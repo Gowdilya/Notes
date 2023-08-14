@@ -1,0 +1,1 @@
+1. class is a reserved word by javascript (true, but not the whole answer)

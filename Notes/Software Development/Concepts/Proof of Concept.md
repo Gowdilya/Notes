@@ -1,0 +1,1 @@
+https://www.netguru.com/blog/proof-of-concept-in-software-development

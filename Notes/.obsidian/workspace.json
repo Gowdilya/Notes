@@ -53,19 +53,11 @@
             "id": "9c3eb7f9fadfab4b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Screenshot 2023-08-02 at 9.10.13 PM.png"
-              }
-            }
-          },
-          {
-            "id": "b557364e2ac21a16",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Screenshot 2023-08-02 at 11.32.03 PM.png"
+                "file": "Software Development/CMS Data modelling.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -75,26 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
+                "file": "Software Development/CSS/contain.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc2b0996dc09ed7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Development/AWS/AWS Technical Essentials/Cloud Computing Deployment Models.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#performance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
+                "file": "Software Development/CMS Data modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
+                "file": "Software Development/CMS Data modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md"
+                "file": "Software Development/CMS Data modelling.md"
               }
             }
           },
@@ -230,56 +210,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88b4b4dda6c8619c",
+  "active": "9c3eb7f9fadfab4b",
   "lastOpenFiles": [
-    "Software Development/Concepts/React(Senior Developer Concepts)/useCallback.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/referential equality.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/useMemo.md",
-    "Software Development/Concepts/JavaScript Concepts/callback function.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/useRef.md",
+    "Screenshot 2023-08-14 at 1.39.03 PM.png",
+    "Screenshot 2023-08-14 at 1.37.44 PM.png",
+    "Software Development/Interview Prep/Intuit.md",
+    "Software Development/CMS Data modelling.md",
+    "Software Development/Interview Prep/Forms/Cover Letter Template.md",
+    "Software Development/Interview Prep/First Derivative/First Derivative Prep.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/why jsx uses classNames instead of class.md",
+    "Software Development/Concepts/JavaScript Concepts/HTMLDOM API/clearInterval() setInterval().md",
+    "Software Development/Concepts/JavaScript Concepts/callback.md",
+    "Software Development/Concepts/JavaScript Concepts/closure.md",
+    "Software Development/Interview Prep/Equinix.md",
+    "Software Development/Concepts/Domain Driven Design.md",
+    "Software Development/Concepts/JavaScript Concepts/pure function.md",
+    "Software Development/Concepts/JavaScript Concepts/referential equality.md",
     "Software Development/Concepts/React(Senior Developer Concepts)/React.md",
-    "Software Development/Project/Full-Stack Development with Nest JS.md",
-    "Software Development/Concepts/JavaScript Concepts/Map vs Set.md",
+    "callback.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/Angular vs React?.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/React 18.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/React Optimization (memo, useCallback, useMemo).md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/custom hooks.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/Higher Order Components (HOC).md",
+    "side-effects.md",
+    "[Virtual DOM in React.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/useRef.md",
+    "Software Development/Concepts/JavaScript Concepts/HTMLDOM API",
+    "Screenshot 2023-08-09 at 10.40.49 AM.png",
+    "Screenshot 2023-08-09 at 10.37.33 AM.png",
+    "Images/Screenshot 2023-08-09 at 10.34.29 AM.png",
+    "Images/Screenshot 2023-08-08 at 5.07.07 PM.png",
+    "Images/Screenshot 2023-08-08 at 5.05.50 PM.png",
+    "Software Development/Concepts/React(Senior Developer Concepts)/ReactJS Developer Interview.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/Virtual DOM.md",
+    "Software Development/Concepts/React(Senior Developer Concepts)/useEffect( for life cycle).md",
+    "Images/Screenshot 2023-08-08 at 5.29.24 PM.png",
+    "Images/Screenshot 2023-08-08 at 5.07.25 PM.png",
+    "Images/Pasted image 20230807231954.png",
+    "Images/Pasted image 20230807231957.png",
+    "Untitled.canvas",
+    "Software Development/CSS",
+    "Software Development/Concepts/Design Patterns",
     "Software Development/Project",
-    "Type ORM.md",
-    "Software Development/Concepts/ORM.md",
-    "Software Development/Coding Problems/JavaScript/Remove Duplicate.md",
-    "Software Development/Concepts/JavaScript Concepts/Hoisting.md",
     "Software Development/Coding Problems/JavaScript",
     "Software Development/Coding Problems",
-    "Software Development/Concepts/REST.md",
-    "Software Development/Concepts/SDL.md",
-    "Software Development/Concepts/CQRS (Command Query Responsibility Segregation) pattern.md",
-    "Software Development/Concepts/JavaScript Concepts/equality.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/React Optimization.md",
     "Software Development/React(Senior Developer Concepts)/useRef",
-    "Software Development/Concepts/React(Senior Developer Concepts)/Virtual DOM in React.md",
-    "Software Development/Concepts/SOLID principle.md",
-    "Software Development/Interview Prep/First Derivative/First Derivative Prep.md",
-    "Software Development/Concepts/object.md",
-    "MVC in Nest.md",
-    "Software Development/Concepts/Domain Driven Design.md",
-    "Screenshot 2023-08-03 at 12.16.04 AM.png",
-    "Screenshot 2023-08-03 at 12.14.55 AM.png",
-    "Screenshot 2023-08-03 at 12.13.03 AM.png",
-    "Screenshot 2023-08-03 at 12.11.11 AM.png",
-    "Screenshot 2023-08-03 at 12.07.33 AM.png",
-    "Screenshot 2023-08-03 at 12.03.46 AM.png",
-    "Screenshot 2023-08-03 at 12.01.52 AM.png",
-    "Untitled.canvas",
-    "Unit Testing.md",
-    "Images/Screenshot 2023-08-02 at 11.37.54 PM.png",
     "Images",
-    "Images/Screenshot 2023-08-02 at 11.32.03 PM.png",
-    "Images/Screenshot 2023-08-02 at 9.10.13 PM.png",
-    "Event Sourcing.md",
-    "Software Development/Interview Prep/Shakudo/TypeGraphQL.md",
     "Untitled 1.canvas",
     "Software Development/Interview Prep/First Derivative",
     "Software Development/Interview Prep/First Derivative",
-    "Software Development/Interview Prep/Forms",
-    "Software Development/Concepts/Images",
-    "Software Development/Concepts",
     "Untitled 2.canvas",
     "AWS/AWS Technical Essentals/Untitled 1.canvas",
     "AWS/AWS Technical Essentals/Untitled.canvas"
