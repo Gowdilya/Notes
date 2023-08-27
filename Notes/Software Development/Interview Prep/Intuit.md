@@ -19,3 +19,5 @@ Interview Process:
  
 30 minutes with the manager
 60+ minutes with the panel team, including live craft.
+operational exellence
+if it hasa. bug diaganose it etc log it etc Nathan Arnold

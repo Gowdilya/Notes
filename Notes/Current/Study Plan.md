@@ -1,0 +1,3 @@
+- Study LeetCode DSA questions
+- Study System Design Questions
+- Practise Promises and JS events?

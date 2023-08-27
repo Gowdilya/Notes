@@ -1,4 +1,4 @@
-# ===
+# ===(Strict equality,  no conversion)
 ```js
 var a = 10;
 var b = 10;
@@ -35,3 +35,11 @@ The `Object.is()` [algorithm](https://developer.mozilla.org/en-US/docs/Web/Jav
 5. Both values are `Objects` that point to one memory location.
 
 React applies these rules to [[re-render]] components whenever a state change is made.
+
+
+# Equality (==) Atempts to convert and compare
+
+The **equality (`==`)** operator checks whether its two operands are equal, returning a Boolean result. Unlike the [strict equality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality) operator, it attempts to convert and compare operands that are of different types.
+
+ErrorBoundaries
+Embedablity

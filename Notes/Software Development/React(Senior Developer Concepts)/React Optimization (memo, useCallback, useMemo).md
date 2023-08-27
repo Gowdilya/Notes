@@ -1,4 +1,4 @@
-# [[React MEMO]] vs [[USECALLBACK ]]vs USEMEMO
+# [[React MEMO]] vs [[useCallback]]vs USEMEMO
 
 https://www.youtube.com/watch?v=uojLJFt9SzY
 

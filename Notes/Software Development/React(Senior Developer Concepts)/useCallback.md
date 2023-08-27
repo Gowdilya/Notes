@@ -1,7 +1,7 @@
 #interview #react #hooks #memoization
 https://www.youtube.com/watch?v=uojLJFt9SzY
 
-The React `useCallback` Hook returns a memoized [[Software Development/Concepts/JavaScript Concepts/callback]].
+The React `useCallback` Hook returns a memoized [[callback]].
 
 A [[callback]] is a function that is passed as an argument to another function. In the context of React, a callback is often used as an event handler or to pass data between components. The **useCallback** hook takes two arguments: a function and a dependency array. It will return a memoized version of the function that only changes if one of the dependencies has changed.
 

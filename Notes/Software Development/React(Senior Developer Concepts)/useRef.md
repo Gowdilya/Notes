@@ -1,4 +1,10 @@
 #hooks 
+
+> [!NOTE] Don't Confuse with [[getting a ref to the DOM node]] which utilizes useRef
+
+> 
+
+
 If we tried to count how many times our application renders using the `useState` Hook, we would be caught in an infinite loop since this Hook itself causes a re-render.
 
 To avoid this, we can use the `useRef` Hook.

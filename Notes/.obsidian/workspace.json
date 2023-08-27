@@ -4,77 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6776ddfecc6bf2",
+        "id": "5aa73a872255a79c",
         "type": "tabs",
         "children": [
           {
-            "id": "1691c49ccd9c3709",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fba8b9c33826d94e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Development/Interview Prep/TopTal/TopTal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca686754de00df40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Event Sourcing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74183cba87798f91",
+            "id": "411cd0e83835a0ff",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Screenshot 2023-08-02 at 9.09.59 PM.png"
+                "file": "Images/Screenshot 2023-08-20 at 12.32.50 AM.png"
               }
             }
           },
           {
-            "id": "9c3eb7f9fadfab4b",
+            "id": "710a93491b17f84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/CMS Data modelling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e0becc99a3d116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Development/CSS/contain.md",
+                "file": "Current/Plusgrade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#performance",
+                "query": "tag:#dynamicProgramming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/CMS Data modelling.md",
+                "file": "Current/Plusgrade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/CMS Data modelling.md",
+                "file": "Current/Plusgrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,20 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/CMS Data modelling.md"
+                "file": "Current/Plusgrade.md"
               }
-            }
-          },
-          {
-            "id": "e764a610932110f3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,56 +158,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c3eb7f9fadfab4b",
+  "active": "710a93491b17f84d",
   "lastOpenFiles": [
-    "Screenshot 2023-08-14 at 1.39.03 PM.png",
-    "Screenshot 2023-08-14 at 1.37.44 PM.png",
-    "Software Development/Interview Prep/Intuit.md",
-    "Software Development/CMS Data modelling.md",
-    "Software Development/Interview Prep/Forms/Cover Letter Template.md",
-    "Software Development/Interview Prep/First Derivative/First Derivative Prep.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/why jsx uses classNames instead of class.md",
-    "Software Development/Concepts/JavaScript Concepts/HTMLDOM API/clearInterval() setInterval().md",
-    "Software Development/Concepts/JavaScript Concepts/callback.md",
-    "Software Development/Concepts/JavaScript Concepts/closure.md",
-    "Software Development/Interview Prep/Equinix.md",
-    "Software Development/Concepts/Domain Driven Design.md",
-    "Software Development/Concepts/JavaScript Concepts/pure function.md",
-    "Software Development/Concepts/JavaScript Concepts/referential equality.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/React.md",
-    "callback.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/Angular vs React?.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/React 18.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/React Optimization (memo, useCallback, useMemo).md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/custom hooks.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/Higher Order Components (HOC).md",
-    "side-effects.md",
-    "[Virtual DOM in React.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/useRef.md",
-    "Software Development/Concepts/JavaScript Concepts/HTMLDOM API",
-    "Screenshot 2023-08-09 at 10.40.49 AM.png",
-    "Screenshot 2023-08-09 at 10.37.33 AM.png",
-    "Images/Screenshot 2023-08-09 at 10.34.29 AM.png",
-    "Images/Screenshot 2023-08-08 at 5.07.07 PM.png",
-    "Images/Screenshot 2023-08-08 at 5.05.50 PM.png",
-    "Software Development/Concepts/React(Senior Developer Concepts)/ReactJS Developer Interview.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/Virtual DOM.md",
-    "Software Development/Concepts/React(Senior Developer Concepts)/useEffect( for life cycle).md",
-    "Images/Screenshot 2023-08-08 at 5.29.24 PM.png",
-    "Images/Screenshot 2023-08-08 at 5.07.25 PM.png",
-    "Images/Pasted image 20230807231954.png",
-    "Images/Pasted image 20230807231957.png",
+    "Current/ScotiaBank.md",
+    "Current/Plusgrade.md",
+    "Current/Sanofi.md",
+    "Software Development/React(Senior Developer Concepts)/setState.md",
+    "Software Development/React(Senior Developer Concepts)/ErrorBoundary.md",
+    "Software Development/Coding Problems/JavaScript/Remove Duplicate.md",
+    "Software Development/JavaScript Concepts/equality.md",
+    "Software Development/JavaScript Concepts/Hoisting.md",
+    "Software Development/JavaScript Concepts/closure.md",
+    "Current/cresta.md",
+    "Current/Observables.md",
+    "Current/Ceridian.md",
+    "Software Development/React(Senior Developer Concepts)/React Directory Structure.md",
+    "Pasted image 20230823190446.png",
+    "Pasted image 20230823190420.png",
+    "Software Development/Data Structures & Algorithms/Longest Palindromic Substring.md",
+    "Software Development/Data Structures & Algorithms/Longest Increasing Subsequence.md",
+    "Current/Study Plan.md",
+    "Current/Nautical Commerce.md",
+    "Current",
+    "Images/Screenshot 2023-08-20 at 12.32.50 AM.png",
+    "Images/Screenshot 2023-08-19 at 5.47.39 PM.png",
+    "Software Development/MVC in Nest.md",
+    "Software Development/Type ORM.md",
+    "Screenshot 2023-08-19 at 5.44.38 PM.png",
+    "Screenshot 2023-08-19 at 5.44.13 PM.png",
+    "Screenshot 2023-08-19 at 5.43.45 PM.png",
+    "Screenshot 2023-08-18 at 6.48.28 PM.png",
+    "Event Sourcing.md",
+    "2023-07-27.md",
+    "Software Development/System Design/System Design.md",
+    "Software Development/React(Senior Developer Concepts)/LegendApp Statemanager.md",
+    "Software Development/System Design",
+    "Images/Screenshot 2023-08-20 at 8.16.25 PM.png",
+    "Software Development/Interview Prep/Cresta/JS Events.md",
+    "Software Development/React(Senior Developer Concepts)/Untitled",
+    "Images/Screenshot 2023-08-20 at 5.52.42 PM.png",
+    "Obsidian/Arrow →.md",
+    "Software Development/Interview Prep/Cresta/Prep.md",
+    "Untitled 1.canvas",
+    "Software Development/Interview Prep/Cresta",
+    "Software Development/Coding Problems/CoderByte",
+    "Software Development/TypeScript",
+    "Obsidian",
+    "Software Development/Node.js",
+    "Software Development/JavaScript Concepts/HTMLDOM API",
     "Untitled.canvas",
     "Software Development/CSS",
-    "Software Development/Concepts/Design Patterns",
-    "Software Development/Project",
-    "Software Development/Coding Problems/JavaScript",
-    "Software Development/Coding Problems",
-    "Software Development/React(Senior Developer Concepts)/useRef",
-    "Images",
-    "Untitled 1.canvas",
-    "Software Development/Interview Prep/First Derivative",
-    "Software Development/Interview Prep/First Derivative",
     "Untitled 2.canvas",
     "AWS/AWS Technical Essentals/Untitled 1.canvas",
     "AWS/AWS Technical Essentals/Untitled.canvas"

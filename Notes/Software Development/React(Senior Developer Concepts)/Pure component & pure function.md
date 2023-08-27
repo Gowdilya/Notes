@@ -1,0 +1,1 @@
+**A function is said to be pure if the return value is determined by its input values only and the return value is always the same for the same input values**. A React component is said to be pure if it renders the same output for the same state and props.
