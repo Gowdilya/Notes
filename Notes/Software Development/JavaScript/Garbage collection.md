@@ -1,0 +1,1 @@
+Some high-level languages, such as JavaScript, utilize a form of automatic memory management known as garbage collection (GC). The purpose of a garbage collector is **to monitor memory allocation and determine when a block of allocated memory is no longer needed and reclaim it**.

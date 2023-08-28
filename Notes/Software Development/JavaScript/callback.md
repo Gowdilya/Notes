@@ -1,4 +1,29 @@
 #JavaScript 
+
+A `callback` function is a function that is passed to another function as an argument and is executed after some operation has been completed. Below is an example of a simple callback function that logs to the console _after_ some operations have been completed.
+```js
+function modifyArray(arr, callback) {
+  // do something to arr here
+  arr.push(100);
+  // then execute the callback function that was passed
+  callback();
+}
+
+var arr = [1, 2, 3, 4, 5];
+
+modifyArray(arr, function() {
+  console.log("array has been modified", arr);
+});
+```
+
+
+
+
+
+
+
+---
+
 A [[callback]] is a function that is passed as an argument to another function.
 
 In the context of [[React]], a callback is often used as an event handler or to pass data between components.
