@@ -8,29 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "411cd0e83835a0ff",
+            "id": "710a93491b17f84d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Screenshot 2023-08-20 at 12.32.50 AM.png"
-              }
+                "file": "Software Development/JavaScript/Debouncing and Throttling.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "710a93491b17f84d",
+            "id": "a9fe3ca94f456880",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ba9b40a9244ed6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Interview Prep/Plusgrade.md",
+                "file": "Software Development/Data Structures & Algorithms/the Nth Fibonacci number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fbd2e49285bb178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/JavaScript/var let const.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dynamicProgramming",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Interview Prep/Plusgrade.md",
+                "file": "Software Development/JavaScript/var let const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Interview Prep/Plusgrade.md",
+                "file": "Software Development/JavaScript/var let const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Interview Prep/Plusgrade.md"
+                "file": "Software Development/JavaScript/var let const.md"
               }
             }
           }
@@ -158,56 +182,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "710a93491b17f84d",
+  "active": "2fbd2e49285bb178",
   "lastOpenFiles": [
-    "Software Development/JavaScript/Array/Array.splice().md",
-    "Software Development/Interview Prep/Plusgrade.md",
-    "Software Development/JavaScript/Array/Array.slice().md",
-    "Software Development/JavaScript/Array/Array.reduce().md",
-    "Software Development/JavaScript/Array/ArrayMethods.md",
-    "Software Development/JavaScript/callback.md",
-    "Software Development/JavaScript/ES6.md",
-    "Software Development/JavaScript/FETCH.md",
-    "Software Development/JavaScript/Garbage collection.md",
-    "Software Development/JavaScript/Hoisting.md",
+    "Software Development/JavaScript/Problems/Functions.md",
+    "Software Development/JavaScript/var let const.md",
+    "Software Development/JavaScript/{...} Objects.md",
+    "Software Development/JavaScript/Debouncing and Throttling.md",
+    "Software Development/JavaScript/🔑 Key Concepts.md",
+    "Software Development/JavaScript/→ arrow function vs normal function.md",
+    "Software Development/JavaScript/How to call a function that returns another function in JavaScript?.md",
     "Software Development/JavaScript/JS Practise.md",
-    "Software Development/JavaScript/JSON Methods.md",
     "Software Development/JavaScript/Map vs Set.md",
-    "Software Development/JavaScript/Number Methods.md",
-    "Software Development/JavaScript/Problems.md",
-    "Software Development/JavaScript/pure function.md",
-    "Software Development/JavaScript/referential equality.md",
-    "Software Development/JavaScript/Shallow vs Deep Copy.md",
-    "Software Development/JavaScript/Problems/FizzBuzz.md",
-    "Software Development/JavaScript/Array",
-    "Software Development/JavaScript/Problems/2620. Counter.md",
-    "Software Development/JavaScript/Problems/2618. Check if Object Instance of Class.md",
-    "Software Development/JavaScript/Problems/2619. Array Prototype Last.md",
-    "Software Development/JavaScript/Problems",
+    "Software Development/JavaScript/Promises.md",
     "Software Development/JavaScript/Prototype.md",
+    "Software Development/JavaScript/equality.md",
+    "Software Development/JavaScript/Problems/function reference vs invocation().md",
     "Obsidian/Arrow →.md",
+    "Images/Screenshot 2023-08-30 at 12.18.51 PM.png",
+    "Software Development/JavaScript/🔁 EventLoop.md",
+    "Images/Pasted image 20230830094323.png",
+    "Software Development/General Software Concepts/Concurrency.md",
+    "Software Development/JavaScript/Shallow vs Deep Copy.md",
+    "Software Development/JavaScript/💦 Event Propagation & Event Bubbling 🫧.md",
+    "Software Development/JavaScript/pure function.md",
+    "side effects.md",
+    "Software Development/JavaScript/JSON Methods.md",
+    "Software Development/JavaScript/referential equality.md",
+    "Software Development/JavaScript/Problems.md",
+    "Current/Study Plan.md",
+    "Software Development/JavaScript/eventListener.md",
+    "Software Development/React(Senior Developer Concepts)/Adding Event listener in react using useRef.md",
+    "Software Development/VSCode",
+    "`<script",
+    "<script",
+    "Software Development/HTML",
+    "Images/Screenshot 2023-08-20 at 12.32.50 AM.png",
+    "Software Development/JavaScript/Array",
+    "Software Development/JavaScript/Problems",
     "Untitled.canvas",
     "Images/Pasted image 20230823190420.png",
     "Pasted image 20230823190446.png",
-    "Templates/Templater/Test.md",
-    "Images/Screenshot 2023-08-20 at 12.32.50 AM.png",
     "Images/Screenshot 2023-08-20 at 12.28.09 AM.png",
     "Images/Screenshot 2023-08-20 at 5.52.42 PM.png",
     "Images/Screenshot 2023-08-20 at 5.32.06 PM.png",
     "Images/Screenshot 2023-08-14 at 1.39.03 PM.png",
     "Images/Screenshot 2023-08-14 at 1.37.44 PM.png",
-    "Images/Screenshot 2023-08-09 at 10.40.49 AM.png",
-    "Images/Screenshot 2023-08-09 at 10.34.29 AM.png",
-    "Current/Plusgrade.md",
     "Current",
     "Software Development/System Design",
     "Software Development/React(Senior Developer Concepts)/Untitled",
     "Untitled 1.canvas",
     "Software Development/Interview Prep/Cresta",
-    "Software Development/Coding Problems/CoderByte",
-    "Software Development/TypeScript",
-    "Obsidian",
-    "Software Development/Node.js",
     "Untitled 2.canvas",
     "AWS/AWS Technical Essentals/Untitled 1.canvas",
     "AWS/AWS Technical Essentals/Untitled.canvas"

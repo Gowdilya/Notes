@@ -136,7 +136,7 @@ arrayList.length = 0; // Empty the array by setting length to 0
 console.log(anotherArrayList); // Output []
 ```
 
-**Method 3 [[Array.splice()]]
+**Method 3 [[splice()]]
 **
 
 ```

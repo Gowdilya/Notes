@@ -39,14 +39,35 @@
       "query": "tag:#DSA",
       "color": {
         "a": 1,
-        "rgb": 14713109
+        "rgb": 1392096
       }
     },
     {
-      "query": "",
+      "query": "path:\"Software Development/JavaScript/Array\"",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16384000
+      }
+    },
+    {
+      "query": "tag:#JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "tag:#important",
+      "color": {
+        "a": 1,
+        "rgb": 16056544
+      }
+    },
+    {
+      "query": "tag:#react",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
       }
     }
   ],
@@ -60,6 +81,6 @@
   "repelStrength": 9.26025390625,
   "linkStrength": 1,
   "linkDistance": 261,
-  "scale": 0.6878145544072396,
+  "scale": 0.9475319896707267,
   "close": false
 }

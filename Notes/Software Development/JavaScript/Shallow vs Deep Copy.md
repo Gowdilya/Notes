@@ -20,7 +20,7 @@ console.log(shallowCopy2); // { name: 'Version 2', additionalInfo: { version: 2 
 # Deep copy
 [[JSON Methods]]
 
-A deep copy can be achieved using `**JSON.parse()**` **+** `**JSON.stringify()**`:
+A deep copy can be achieved using **JSON.parse()** **+** **JSON.stringify()**:
 
 ```js
 const obj = { name: 'Version 1', additionalInfo: { version: 1 } };
