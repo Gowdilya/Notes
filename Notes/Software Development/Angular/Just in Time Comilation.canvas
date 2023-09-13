@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8d39adf21a7c698c","x":-460,"y":-45,"width":250,"height":60,"type":"text","text":"Source Code\n"},
+		{"id":"76ad731d1c9b20f0","x":-120,"y":-90,"width":250,"height":150,"type":"text","text":"Template\n\nServices\n\nModules"},
+		{"id":"b73b4c2f342174cd","x":200,"y":-44,"width":250,"height":60,"type":"text","text":"Browser runs App"}
+	],
+	"edges":[
+		{"id":"0be4c1b439a39972","fromNode":"8d39adf21a7c698c","fromSide":"right","toNode":"76ad731d1c9b20f0","toSide":"left"},
+		{"id":"9f5e03af23bedcbb","fromNode":"76ad731d1c9b20f0","fromSide":"right","toNode":"b73b4c2f342174cd","toSide":"left"}
+	]
+}

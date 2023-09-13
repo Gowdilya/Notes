@@ -3,4 +3,4 @@
 - Practise Promises and JS events?
 - [[Debouncing and Throttling]]
 - htmx
-- 
+- - Experience with monitoring and logging tools.

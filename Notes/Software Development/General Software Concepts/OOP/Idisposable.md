@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-7.0
